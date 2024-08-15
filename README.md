@@ -20,17 +20,19 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
 🔧 **Tools I Use**:
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+<p align="left">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=c" alt="C"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=cplusplus" alt="C++"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=html5" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=css3" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=node.js" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=visual-studio-code" alt="Visual Studio Code"/>
+</p>
 
 📱 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/r-s-abishek-668380282)
