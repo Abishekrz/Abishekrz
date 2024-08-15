@@ -16,4 +16,4 @@
 - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/r-s-abishek-668380282)
 - [![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/u/abishekrz2004/)
 - [![GeeksforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://www.geeksforgeeks.org/user/user_tcy7lh4yznr/)
-- [![HackerRank](https://img.icons8.com/color/48/000000/hackerrank.png)](https://www.hackerrank.com/profile/abishekrz2004) 
+- [![HackerRank](https://img.icons8.com/color/48/000000/hackerrank.png)](https://www.hackerrank.com/profile/abishekrz2004)
