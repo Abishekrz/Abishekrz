@@ -17,3 +17,11 @@
 - [![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/u/abishekrz2004/)
 - [![GeeksforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://www.geeksforgeeks.org/user/user_tcy7lh4yznr/)
 - [![HackerRank](https://img.icons8.com/color/48/000000/hackerrank.png)](https://www.hackerrank.com/profile/abishekrz2004)
+
+### 📊 GitHub Stats:
+
+![Abishekrz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abishekrz&show_icons=true&theme=radical)
+
+### 📈 Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekrz&layout=compact&theme=radical)
