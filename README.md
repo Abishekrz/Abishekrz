@@ -14,9 +14,19 @@
 ### Connect with Me:
 
 - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/r-s-abishek-668380282)
-- [![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/u/abishekrz2004/)
-- [![GeeksforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://www.geeksforgeeks.org/user/user_tcy7lh4yznr/)
-- [![HackerRank](https://img.icons8.com/color/48/000000/hackerrank.png)](https://www.hackerrank.com/profile/abishekrz2004)
+
+
+# My Coding Profiles
+
+## LeetCode
+[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=abishekrz2004)](https://leetcode.com/u/abishekrz2004/)
+
+## HackerRank
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-abishekrz2004-green)](https://www.hackerrank.com/profile/abishekrz2004)
+
+## GeeksforGeeks
+[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-abishek001-green)](https://www.geeksforgeeks.org/user/abishek001/)
+
 
 ### 📊 GitHub Stats:
 
