@@ -21,8 +21,9 @@
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abishekrz2004)
 
-## HackerRank
-![HackerRank Stats](https://img.shields.io/badge/solved-50-green)
+### 
+![HackerRank Profile](https://www.hackerrank.com/profile/abishekrz2004)
+
 
 ## GeeksforGeeks
 [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/abishek001/)
