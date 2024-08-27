@@ -21,8 +21,8 @@
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abishekrz2004)
 
-### 
-![HackerRank Profile](https://www.hackerrank.com/profile/abishekrz2004)
+### HackerRank
+![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
 
 
 ## GeeksforGeeks
