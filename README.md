@@ -19,13 +19,14 @@
 # My Coding Profiles
 
 ## LeetCode
-[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=abishekrz2004)](https://leetcode.com/u/abishekrz2004/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abishekrz2004)
 
 ## HackerRank
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-abishekrz2004-green)](https://www.hackerrank.com/profile/abishekrz2004)
+![HackerRank Stats](https://img.shields.io/badge/solved-50-green)
 
 ## GeeksforGeeks
-[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-abishek001-green)](https://www.geeksforgeeks.org/user/abishek001/)
+[GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/abishek001/)
+
 
 
 ### 📊 GitHub Stats:
