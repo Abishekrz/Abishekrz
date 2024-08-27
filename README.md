@@ -14,20 +14,14 @@
 ### Connect with Me:
 
 - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/r-s-abishek-668380282)
+- ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
+- [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/abishek001/)
 
 
 # My Coding Profiles
 
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abishekrz2004)
-
-### HackerRank
-![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
-
-
-## GeeksforGeeks
-[GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/abishek001/)
-
 
 
 ### 📊 GitHub Stats:
