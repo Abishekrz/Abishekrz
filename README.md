@@ -5,6 +5,12 @@
 - **🚀 I use daily:** Python, Java, C, C++, HTML, CSS, JavaScript, ReactJS, NodeJS, GitHub, Visual Studio Code  
 - **🌱 Currently learning:** Python  
 - **📫 How to reach me:** abishekrz2004@gmail.com
+-  [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/r-s-abishek-668380282)
+- ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
+- [![GeeksforGeeks Profile](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/abishek001/)
+
+  ![Alt Text]([Image_URL](https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966))
+
 
 ### 🛠 Tools I Use:
 
@@ -13,9 +19,7 @@
 
 ### Connect with Me:
 
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/r-s-abishek-668380282)
-- ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
-- [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/abishek001/)
+
 
 
 # My Coding Profiles
