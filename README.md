@@ -21,11 +21,8 @@
 ## HackerRank
 ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
 
-##GeeksforGeeks
+## GeeksforGeeks
 ![![GeeksforGeeks Profile](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/abishek001/)
-
-## CodeChef
-![![CodeChef](https://www.codechef.com/)](https://www.codechef.com/users/abishekrz)
 
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abishekrz2004)
