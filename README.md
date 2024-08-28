@@ -2,12 +2,11 @@
 
 - **🎓 Currently pursuing:** B.Tech in Information Technology  
 - **💻 Interested in:** Software Development  
-- **🚀 I use daily:** Python, Java, C, C++, HTML, CSS, JavaScript, ReactJS, NodeJS, GitHub, Visual Studio Code  
-- **🌱 Currently learning:** Python  
+- **🚀 daily use:** Python, Java, C, C++, HTML, CSS, JavaScript, ReactJS, NodeJS, GitHub, Visual Studio Code  
+- **🌱 Currently learning:**  Advanced Python
 - **📫 How to reach me:** abishekrz2004@gmail.com
 -  [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/r-s-abishek-668380282)
-- ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
-- [![GeeksforGeeks Profile](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/abishek001/)
+- 
 
 #
 ### 🛠 Tools I Use:
@@ -18,6 +17,15 @@
 
 
 ### My Coding Profiles
+
+## HackerRank
+![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
+
+##GeeksforGeeks
+![![GeeksforGeeks Profile](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/abishek001/)
+
+## CodeChef
+![![CodeChef](https://www.codechef.com/)](https://www.codechef.com/users/abishekrz)
 
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abishekrz2004)
