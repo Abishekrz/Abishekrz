@@ -22,15 +22,11 @@
 
 ### My Coding Profiles
 
-## HackerRank
-![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)
-
-## GeeksforGeeks
-![![GeeksforGeeks Profile](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/abishek001/)
-
-## LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/abishekrz2004)
-
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)](https://www.hackerrank.com/profile/abishekrz2004/)
+  
+- [![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/abishek001/)
+   
+- [![LeetCode](https://leetcard.jacoblin.cool/abishekrz2004)](https://leetcode.com/abishekrz2004/)  
 
 
 ### 📊 GitHub Stats:
