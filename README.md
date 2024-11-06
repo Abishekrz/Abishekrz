@@ -6,9 +6,7 @@
 - **🌱 Currently learning:**  Advanced Python
 - **📫 How to reach me:** abishekrz2004@gmail.com
 -  [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/r-s-abishek-668380282)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&style=for-the-badge)](https://www.hackerrank.com/abishek001)  
-- [![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/abishek001/)  
-- [![LeetCode](https://leetcard.jacoblin.cool/abishekrz2004)](https://leetcode.com/abishekrz2004/)  
+ 
 
 #
 ### 🛠 Tools I Use:
