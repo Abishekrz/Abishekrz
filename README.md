@@ -28,8 +28,10 @@
 
 
 ### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abishekrz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![Abishekrz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abishekrz&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abishekrz&theme=tokyonight&hide_border=false)<br/>
+
 
 ### 📈 Top Languages:
 
