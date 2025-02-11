@@ -24,7 +24,7 @@
   
 - [![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/user/abishek001/)
    
-- [![LeetCode](https://leetcard.jacoblin.cool/abishekrz2004)](https://leetcode.com/abishekrz2004/)  
+- ![Leetcode Stats](https://leetcard.jacoblin.cool/abishekrz2004?ext=heatmap) 
 
 
 ### 📊 GitHub Stats:
