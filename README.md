@@ -32,7 +32,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abishekrz&theme=tokyonight&hide_border=false)<br/>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67ad86517fd6a04b6f4ffd57?variant=dark)](https://roadmap.sh)
 
 ### 📈 Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekrz&layout=compact&theme=radical)
+
