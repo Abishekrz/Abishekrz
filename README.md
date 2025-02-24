@@ -32,7 +32,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abishekrz&theme=tokyonight&hide_border=false)<br/>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67ad86517fd6a04b6f4ffd57?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/67ad86517fd6a04b6f4ffd57?variant=dark&roadmaps=devops%2Cdocker)](https://roadmap.sh)
 
 ### 📈 Top Languages:
 
