@@ -11,9 +11,18 @@
 #
 ### 🛠 Tools I Use:
 
-![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) ![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-
-
+![Python](https://img.icons8.com/color/48/000000/python--v1.png) 
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) 
+![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png) 
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) 
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
 
 
 
