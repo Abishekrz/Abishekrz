@@ -1,4 +1,4 @@
-# Hi, I’m @Abishekrz
+# Hi, I’m Abishekrz
 
 - **🎓 Currently pursuing:** B.Tech in Information Technology  
 - **💻 Interested in:** Software Development  
