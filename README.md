@@ -34,7 +34,7 @@ $ cat about.txt
 ```
 
 ```
-Full-stack Software Engineer who's just as comfortable owning a feature
+Software Engineer who's just as comfortable owning a feature
 end-to-end -- schema to API to UI -- as training a computer vision model.
 
 > education   : B.Tech IT, CHRIST University, Bangalore (CGPA 8.45/10)
